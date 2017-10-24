@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1461762904 source:d:\workspace_c++\obsim\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<dirent.h>
+	<algorithm>
+	<Shlwapi.h>
+	<fstream>
+	<map>
+
