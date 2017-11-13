@@ -2,9 +2,9 @@
 
 USAGE:
 
- - obsim <subdir> : search images in <subdir> within files (recursive)
- - obsim <subdir> -type php : search only within *.php files
- - obsim <imagefile> : search for <imagefile> within files (recursive)
+ - obsim [subdir] : search images in [subdir] within files (recursive)
+ - obsim [subdir] -type php : search only within *.php files
+ - obsim [imagefile] : search for [imagefile] within files (recursive)
  
 SEARCH IMAGE TYPES: jpg,jpeg,gif,png,svg,bmp,tif,svg
 
